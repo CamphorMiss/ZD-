@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1_22  栈的基本函数实现", "1_22  栈的基本函数实现\1_22  栈的基本函数实现.vcproj", "{E8BEB004-2456-4869-A3C1-F075872EBB32}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1-20 反转一个单链表", "..\1-20 反转一个单链表\1-20 反转一个单链表\1-20 反转一个单链表.vcproj", "{B8ADDAE0-2255-4FA5-A2A4-74E1B7603C41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8BEB004-2456-4869-A3C1-F075872EBB32}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E8BEB004-2456-4869-A3C1-F075872EBB32}.Debug|Win32.Build.0 = Debug|Win32
+		{E8BEB004-2456-4869-A3C1-F075872EBB32}.Release|Win32.ActiveCfg = Release|Win32
+		{E8BEB004-2456-4869-A3C1-F075872EBB32}.Release|Win32.Build.0 = Release|Win32
+		{B8ADDAE0-2255-4FA5-A2A4-74E1B7603C41}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B8ADDAE0-2255-4FA5-A2A4-74E1B7603C41}.Debug|Win32.Build.0 = Debug|Win32
+		{B8ADDAE0-2255-4FA5-A2A4-74E1B7603C41}.Release|Win32.ActiveCfg = Release|Win32
+		{B8ADDAE0-2255-4FA5-A2A4-74E1B7603C41}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
